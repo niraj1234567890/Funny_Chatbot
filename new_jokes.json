@@ -1,0 +1,130 @@
+{
+  "teacher": [
+    {
+      "joke_order": 1,
+      "joke_content": "TEACHER : Pappu, How do you spell \"crocodile\"? PAPPU: \"K-R-O-K-O-D-A-I-L\"! TEACHER: No,that's wrong. PAPPU: Maybe it's wrong. but you asked me how i spell it."
+    },
+    {
+      "joke_order": 2,
+      "joke_content": "TEACHER : Pappu, tell me frankly do you say prayers before eating ? PAPPU: No sir, I don't have to, my Mother is good cook."
+    },
+    {
+      "joke_order": 3,
+      "joke_content": "TEACHER : Pappu, your composition on \"My Dog\" is exactly the same as your brother's. Did you copy this ? PAPPU: No, Teacher, it's the same Dog."
+
+    },
+    {
+      "joke_order": 4,
+      "joke_content": "Teacher: What are some products of the West Indies? Student: I don't know. Teacher: Of course, you do. Where do you get sugar from? Student: We borrow it from our neighbor.."
+
+    },
+    {
+      "joke_order": 5,
+      "joke_content": "Teacher: Could you please pay a little attention here? Student: yes mam, I am paying as little attention as i can. !!"
+    },
+    {
+      "joke_order": 6,
+      "joke_content": "Student1 :Do you want to hear a dirty joke? Student 2: OK Student 1: A white horse fell in the mud."
+    },
+    {
+      "joke_order": 7,
+      "joke_content": "Teacher: \"Who can tell me what 7 times 6 is?\" Student: \"It is 42 mam!\" Teacher: \"great, and who will tell me what 6 times 7 is?\" Same student: \"It 24 mam.\""
+    },
+    {
+      "joke_order": 8,
+      "joke_content": "Two student were chatting: First: Do you know what is snake's favorite subject? second:, no, you tell. first: Hisssstory!!!"
+    },
+    {
+      "joke_order": 9,
+      "joke_content": "Teacher: From where to where foreigner ruled us? Student: I am not sure but I think from page 50 to 55"
+    },
+    {
+      "joke_order": 10,
+      "joke_content": "Man: How can you tell if a man is happy? Woman: Who cares?!"
+    }
+  ],
+  "husband_wife": [
+    {
+      "joke_order": 1,
+      "joke_content": "Husband : Call ambulance fast! I am having a heart attack. Wife: (took his mobile) Quick!! Tell me the password. Husband: It's ok! I am feeling better now."
+    },
+    {
+      "joke_order": 2,
+      "joke_content": "Wife : I am not talking to you. Husband: Okay. Wife: Don't you want to know the reason? Husband: No I trust and respect your decision, honey."
+    },
+    {
+      "joke_order": 3,
+      "joke_content": "Wife : I lost my keys again! Husband: It's in your jeans. Wife: Don't drag my family into this."
+    },
+    {
+      "joke_order": 4,
+      "joke_content": "Husband : The guy your friend is going to marry is not a nice man. Stop her. Wife: Why should I? Did she stop me?"
+    },
+    {
+      "joke_order": 5,
+      "joke_content": "Wife : I feel horrible. I look old, fat and ugly. I really need you to pay me a compliment. Husband: Your eye sight is damn near perfect."
+    },
+    {
+      "joke_order": 6,
+      "joke_content": "Wife : Dearie, this computer is not working as per my command. Husband: Darling, it is a computer, not a husband."
+    },
+    {
+      "joke_order": 7,
+      "joke_content": "I asked my wife, \"Where do you want to go for our anniversary?\" She said, \"Somewhere I have never been!\" I told her, \"How about the kitchen?"
+    },
+    {
+      "joke_order": 8,
+      "joke_content": "A man noticed his credit card has been stolen - but he never reported it. The thief was still spending considerably less than his wife.\""
+    },
+    {
+      "joke_order": 9,
+      "joke_content": "Husband : Shall we make a nice weekend for each other, honey?\" Wife: \"Oh, that would be lovely, Georgie!\" Husband: \"Fantastic! Well, see you Monday.\""
+    }
+  ],
+  "father": [
+		{
+			"joke_order":0,
+			"joke_content":"When a man opens the door of his car for his wife, you can be sure of one thing: either the car is new or the wife."
+		},
+		{
+			"joke_order":1,
+			"joke_content":"Father: Would you like a pocket calculator for Christmas, son? Son: No thanks, Dad. I know how many pockets I've got."
+		},
+		{
+			"joke_order":2,
+			"joke_content":"Father: Let me see your report card. Johnny: I don't have it. Father: Why not? Johnny: My friend borrowed it. He wants to scare his parents."
+		},
+		{
+			"joke_order":3,
+			"joke_content":"\"Daddy, how much does it cost to get married?\" \"I don't know, son. I'm still paying for it.\""
+		},
+		{
+			"joke_order":4,
+			"joke_content":"Father: \"And why do you think it is necessary to be quiet in church? \"Son: \"Because other people are sleeping.\""
+		},
+		{
+			"joke_order":5,
+			"joke_content":"Father: Whenever I beat you at chess, you don't get annoyed, how do you control your anger? Son: I clean the toilet seat. With your toothbrush."
+		},
+		{
+			"joke_order":6,
+			"joke_content":"Father: Why did you get such a low score in that exam? Son: Absence! Father: You were absent on the day of the exam? Son: No but the boy who sits next to me was!"
+		},
+		{
+			"joke_order":7,
+			"joke_content":"Son: Mom, yesterday when I was on the bus with dad, dad told me to give up my seat to a lady. Mom: Good, you have done the right thing. Son: But mom I was sitting on dad's lap."
+		},
+		{
+			"joke_order":8,
+			"joke_content":"Teacher: You say Michael has a cold and can't come to school today? To whom am I speaking? Voice: This is my father."
+		},
+		{
+			"joke_order":9,
+			"joke_content":"Dad: How do you like fourth grade? Son: It isn't much fun. Dad: That's too bad. It was the best three years of my life!"
+		},
+		{
+			"joke_order":10,
+			"joke_content":"Science teacher: When is the boiling point reached? Science student: When my father sees my report card!"
+		}
+	]
+}

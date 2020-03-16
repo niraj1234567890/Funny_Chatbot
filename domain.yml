@@ -1,0 +1,63 @@
+%YAML 1.1
+---
+intents:
+- greet
+- mood_great
+- mood_unhappy
+- goodbye
+- mood_affirm
+- mood_deny
+- mood_sleepy
+- inform
+
+slots:
+  jokes:
+    type: text
+
+entities:
+- jokes
+
+actions:
+- utter_greet
+- utter_happy
+- utter_goodbye
+- utter_did_that_help
+- utter_unclear
+- utter_ask_joke
+- utter_good_night
+- utter_ask_again
+- utter_ask_another_joke
+- utter_sorry
+- utter_which_kind_joke
+- action_retrive_joke
+
+templates:
+  utter_greet:
+  - text: "Hey!what's up buddy?"
+  utter_happy:
+  - text: "Very nice buddy!Keep it up"
+  utter_goodbye:
+  - text: "Meet u soon!"
+  utter_did_that_help:
+  - text: "Is it good for you now?"
+  utter_ask_again:
+  - text: "Do you really don't want to hear any of them?"
+  utter_sorry:
+  - text: "I'm really sorry but I can't help further."
+  utter_ask_another_joke:
+  - text: "Do you want to hear another joke from me?"
+  utter_unclear:
+  - text: "I'm not getting you...."
+  utter_ask_joke:
+  - text: "I can tell you some jokes if it would help to cheer you up..Would you like to hear any joke?"
+  utter_good_night:
+  - text: "Good night..sleep well and have a lovely dream"
+  utter_which_kind_joke:
+  - text: "Which kind of joke would you like to listen?"
+    buttons:
+    - title: 'teacher'
+      payload: '/inform{"jokes":"teacher"}'
+    - title: 'husband_wife'
+      payload: '/inform{"jokes":"husband_wife"}'
+    - title:  'father'
+      payload: '/inform{"jokes":"father"}'
