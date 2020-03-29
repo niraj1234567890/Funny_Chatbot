@@ -38,6 +38,6 @@ RASA is divided into two major parts in terms of developing a chatbobt.
 6. run this comand:- **rasa shell --endpoints endpoints.yml**
 
 **B00000M** Are ready to freshen up!!!!!!
-Now you can talk to funny chatbot.
+Now you can talk to funny chatbot. This is new.
              
 
